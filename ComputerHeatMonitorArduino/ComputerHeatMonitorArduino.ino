@@ -1,4 +1,4 @@
-nra #include <SoftwareSerial.h>
+#include <SoftwareSerial.h>
 
 SoftwareSerial hc06(10,11);
 
